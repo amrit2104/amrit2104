@@ -5,7 +5,7 @@
 - ✨ I am a final year dual degree electrical engineering student at IIT Bhubaneswar.
 - 👀 I’m interested in the area of web and software development.
 - 🌱 I’m currently working on model predictive control as a part of my M.Tech Thesis.
-- 📫 You can reach out to me by mailing at amritgrath@gmail.com.
+- 📫 You can reach out to me by mailing at agr10@iitbbs.ac.in.
 
 <!---
 amrit2104/amrit2104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
