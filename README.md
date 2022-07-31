@@ -1,4 +1,4 @@
-[Profile](http://amrit2104.github.io/) [Linkedin](https://www.linkedin.com/in/amrit2104/)
+[Website](http://amrit2104.github.io/) [Linkedin](https://www.linkedin.com/in/amrit2104/)
 
 
 - 👋 Hello, I’m Amrit Gaurav Rath.
