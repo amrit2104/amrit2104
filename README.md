@@ -2,8 +2,8 @@
 
 
 - 👋 Hello, I’m Amrit Gaurav Rath.
-- ✨ I am a final year dual degree electrical engineering student at IIT Bhubaneswar.
-- 👀 I’m interested in the area of web and software development.
+- ✨ I am currently working as a Devops Engineer in Brane Enterprises.
+- 👀 I’m interested in the area of software development, devops & backend engineering.
 - 📫 You can reach out to me by mailing at agr10@iitbbs.ac.in.
 
 <!---
